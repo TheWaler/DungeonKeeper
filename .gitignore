@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+.env
+*/.env
+src/__pycache__/
+src/.chroma/
+src/chroma_logs.log
+data/adventures/Zikrans Zephyrean Tome.md
+src/data/db/

@@ -1,0 +1,16 @@
+{
+    "features": {
+    "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+      "installCudnn": true
+    }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"GitHub.copilot",
+			"GitHub.copilot-labs",
+			"ms-python.python"
+		]
+	}
+}
+}

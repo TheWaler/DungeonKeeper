@@ -1,0 +1,9 @@
+langchain
+chromadb
+openai
+python-dotenv
+unstructured[local-inference]
+wheel
+layoutparser[layoutmodels,tesseract]
+networkx
+cohere
